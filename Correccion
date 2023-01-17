@@ -1,0 +1,5 @@
+# import javax.*;
+
+public class main (String args[]){
+  System.out.println("Hola Mundo!");
+}
